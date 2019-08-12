@@ -1,0 +1,23 @@
+{
+  "name": "sample-lambda-api",
+  "version": "1.0.0",
+  "description": "A sample lambda api using serverless framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsporthd/sample-lambda-api.git"
+  },
+  "author": "Larry Presswood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsporthd/sample-lambda-api/issues"
+  },
+  "homepage": "https://github.com/tsporthd/sample-lambda-api#readme",
+  "dependencies": {
+    "bluebird": "3.5.5",
+    "uuid": "3.3.2"
+  }
+}
